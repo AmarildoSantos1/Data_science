@@ -25,10 +25,4 @@ Apresentação do Dataset:
     - Duração_Mínima: Duração da faixa convertida para minutos.
     - Spotify_URL: Link direto para ouvir a música no Spotify.
     - ID: Identificador único da música na plataforma.
-
-
-
-Instalar Dependencias: 
-
-python -m venv venv, pip install -r requirements.txt
-
+        
