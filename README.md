@@ -1,4 +1,4 @@
-Disciplia: 
+Disciplina: 
     Elaborar Relatório Analítico de Data Science
 
 Grupo:  
